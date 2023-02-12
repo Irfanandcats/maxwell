@@ -9,7 +9,9 @@ Maxwell extension to use a Maxwell file.
 To create a .max file that uses Maxwell:
 
 ```
-MyFile.max
+| main.lua
+| Module.max
+| MyFile.max
 ```
 
 * Maxwell
