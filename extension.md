@@ -12,4 +12,4 @@ To create a .max file that uses Maxwell:
 MyFile.max
 ```
 
-: Maxwell
+* Maxwell
