@@ -10,8 +10,8 @@ To create a new file that uses Maxwell, Create a new file with the name of your 
 
 ```
 | main.lua
-| Module.maxw
-| MyFile.maxw
+| Module.maxw < Maxwell File
+| MyFile.maxw < Maxwell File
 ```
 
 * Maxwell
